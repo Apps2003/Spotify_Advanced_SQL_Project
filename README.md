@@ -1,6 +1,5 @@
 # Spotify Advanced SQL Project
 
-![spotify](/images/spotify.jpg)
 <img src="/images/spotify.jpg" width="1000">
 
 ## Dataset Link: 
